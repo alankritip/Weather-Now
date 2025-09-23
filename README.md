@@ -9,8 +9,9 @@ A clean React + Tailwind app to search for city weather using the Open-Meteo API
 
 ## 📑 Table of Contents
 ### Demo
-<!-- - Live App: <LIVE_DEMO_URL>
-- AI Collaboration Log: <CHAT_LOG_URL> -->
+- Live App: https://stackblitz.com/~/github.com/alankritip/Weather-Now
+- Deployed to Netlify: weathernow517.netlify.app
+- AI Collaboration Log: https://chatgpt.com/share/68d232b7-0ff8-800e-8f9c-3d690ae825d5 
 
 ### Project Structure
 
